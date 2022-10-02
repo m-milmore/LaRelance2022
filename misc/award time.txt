@@ -1,0 +1,8 @@
+How and when does COMPMNGR estimate the duration of a break for awards
+ 
+
+To estimate the amount of time required to announce the awards during an awards break, COMPMNGR simply calculates the total number of entries in final rounds of heats danced since the previous awards break or the beginning of the session and multiplies that total by the user specified time to announce one award. Then the time of the following heat is calculated and, if it is not an integer multiple of the specified number of minutes (e.g. five minutes), the awards duration is rounded up so that the following heat will start at the specified integer multiple of minutes (unless it is set to zero).
+
+ 
+
+The required time for announcing awards is calculated when you reheat all or a portion of the program, when you select Recalculate times/Awards in the Format drop down menu of the on-screen program, and when you change the user specified time to announce one award. However, anytime the program schedule is recalculated (e.g. after a heat is moved) the current the awards durations are rounded up so that the following heat will start at the integer multiple specified in the setup.

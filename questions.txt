@@ -1,17 +1,89 @@
 Social form
-1) jr 12-15?
-2) valse & valse lente?
-3) championnat merengue & Mambo niveau? Bronze & -? Argent? Or? Ouvert?
-4) Max/Floor 8/
-5) Max final 6?
-6) Durée 1.8min?
-7) Juges 5?
-8) 60+?
-9) cat. rég. + champ. niveau + champ. all = 1 cat.? pour les frais?
+1) jr 12-15?								=> 12-15, corrigé
+2) valse & valse lente?							=> même chose, pas corrigé
+3) championnat merengue & Mambo niveau? Bronze & -? Argent? Or? Ouvert?		=> ouvert, corrigé
+4) Max/Floor 8?								=> 10
+5) Max final 6?								=> 6
+6) Durée 1.8min?								=> Or & - 1.25min, Pré-Am & + 1.5min
+7) Juges 5?								=> social 5, intl 7
+8) 60+?									=> ajouté
+9) cat. rég. + champ. niveau + champ. all = 1 cat.? pour les frais?			=> pour les frais
 
-10) mix, men vs ladies?
-11) solo, men vs ladies?
-12) showdance, solo (numeric, 1/floor)? Showdance(Artistic)?
-13) difference between duo & cpl?
-14) Invitation, non-member (Int form) = So... WE DANCE?
-15) Schedule Sat. Eve. Pre-Champ Latin Senior V?
+10) mix, men vs ladies?							=> non
+11) solo, men vs ladies?							=> non
+12) showdance, solo (numeric, 1/floor)? Showdance(Artistic)?			=> à suivre
+13) difference between duo & cpl?						=> juste duo suffirait (note à moi) car duo = 2 gars ou 2 filles, couple = 1 gars + 1 fille
+14) Invitation, non-member (Int form) = So... WE DANCE?				=> non, alors où est la compétition invitation dans l'horaire?
+15) Schedule Sat. Eve. Pre-Champ Latin Senior V?				=> oui, c'est à corrigé
+
+*******************************************
+
+1) "En ouvert internationale il est possible que nous ayons
+des Heats." (??)
+2) "Il pourrait très considéré dans la même catégorie." (??)
+3) où est la compétition "invitation non-member" dans l'horaire?
+4) correction à l'horaire Latin Sénior V?
+5) fichier noname?
+6) envoyer factureAu sujet des championnats en social
+7) pas vu de rouge, est-ce dans le fichier noname?
+8) juste pour être sûr, tous les champ. en social sont 1 danse? 11 en tout?	
+	Br&- 			Valse			15- & 16+
+	Br&- 			Triple Swing		15- & 16+
+	Argent 			Tango			15- & 16+
+	Argent 			Samba			15- & 16+
+	Or 			Foxtrot			15- & 16+
+	Or 			Rumba			15- & 16+
+
+	1ère compétition		Triple Swing		Tous âges
+	Ouvert 			Valse			Tous âges
+	Ouvert 			Chacha			Tous âges
+	Ouvert 			Merengue		Tous âges
+	Ouvert 			Mambo			Tous âges
+9) invitation veut dire première compétition? (pas ouvert)
+10) différence entre "championnat toute catégorie" et (juste) championnat?
+11) Pour la durée (Or & - 1.25min, Pré-Am & + 1.5min), est-ce que cela faut pour le social?
+	ce qui voudrait dire que je dois séparer l'ouvert en social d'avec les autres niveaux
+	vu qu'il devrait être 1.5min et que les autres niveaux sont 1.25min
+	en compétitions régulières et championnats
+12) combien de temps pour les showdances, combien de juges?
+
+*******************************
+
+combien de temps pour:
+	1:30pm Awards Presentation
+	2:30pm Awards presentation and general dancing
+	3:15pm Awards Presentation
+	4:00pm Awards Presentation
+	5:15pm Awards presentation and general dancing
+
+	6:30pm Opening Evening Ceremony
+	8:45pm Awards presentation and general dancing
+	11:00pm Awards Presentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

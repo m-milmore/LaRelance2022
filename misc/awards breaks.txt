@@ -1,0 +1,5 @@
+Break, Awards break
+These are two types of special lines for marking breaks in your program, awards breaks and non-awards breaks (e.g. for general dancing). Every break line has associated with it a duration, which is used in calculating the times of events in the program. Each type of break has associated with it a type face and font size.
+
+Awards can lock time
+Breaks cannot lock time
