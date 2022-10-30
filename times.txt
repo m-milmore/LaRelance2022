@@ -49,9 +49,15 @@ vérification de l'horaire, inscriptions, work on format for program
 ******************************************
 
 dimanche le 30 octobre 2022
-12h30 - 
-imprimer inscriptions, 7 courriels, 22 pages
-inscriptions
+12h30 - 15h30						3hrs
+imprimer inscriptions, 8 courriels, 24 pages
+inscriptions partielles (solos categories ne fonctionnet pas)
+
+16h00 - 17h00						1hr
+mix, solos working (167 entries)
+
+18h45 - 
+autres inscriptions (246 total)
 
 
 
